@@ -13,11 +13,10 @@ I'm Avi, a BSIT major in Business Technology Management student at the Universit
 
 🚀 **Skills:** ![Java](https://img.shields.io/badge/Java-Intermediate-orange) ![HTML](https://img.shields.io/badge/HTML-Advanced-blue) ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow) ![C++](https://img.shields.io/badge/C++-Intermediate-brightgreen) ![SQL](https://img.shields.io/badge/SQL-Beginner-blueviolet) ![R](https://img.shields.io/badge/R-Beginner-blueviolet) ![Photoshop](https://img.shields.io/badge/Photoshop-Advanced-blueviolet)
 
+### Languages I know:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,mysql,r,xd,figma)](https://skillicons.dev)
 ### GitHub Overview:
-![Aviabellana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviabellana&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-
-### Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviabellana&layout=compact&theme=radical)
+![Aviabellana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviabellana&show_icons=true&count_private=true&include_all_commits=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviabellana&layout=compact&theme=radical)
 
 
 
