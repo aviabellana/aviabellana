@@ -12,6 +12,8 @@
 
 🌱 **Learning:** Always learning and passionate about designing and editing.
 
+📫 **How to reach me:** vgrcabellana@gmail.com
+
 ⚡ **Fun fact:** I love experimenting with different design styles and creating visually appealing content.
 
 💬 **Ask me about:** haha wag na
@@ -32,7 +34,7 @@
 <a href="https://github.com/aviabellana"> <img src="https://skillicons.dev/icons?i=github&theme=light" alt="My Icon"> </a>
 
 ### GitHub Overview:
-![Aviabellana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviabellana&show_icons=true&count_private=true&include_all_commits=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviabellana&layout=compact&theme=radical)
+![Aviabellana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviabellana&show_icons=true&hide=prs,issues,contribs&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviabellana&layout=compact&theme=radical)
 
 
 
