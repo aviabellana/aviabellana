@@ -1,6 +1,6 @@
 <img align="center" width="1000" src="https://i.redd.it/lrp11pvdogmb1.gif" alt="My GitHub Banner GIF">
 
-<h1>Avi's Github Profile</h1>
+<h1>Hi, I'm Avi! 👋</h1>
 <h3>just a weirdo kid</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aviabellana&color=blueviolet) ![Currently Online](https://img.shields.io/badge/Currently%20-Online-brightgreen) ![Loves Cats](https://img.shields.io/badge/Loves%20Cats-🐱-lightgrey) ![Listening to Spotify](https://img.shields.io/badge/Listening%20to%20Spotify-lightgrey?style=flat&logo=spotify&logoColor=1DB954&labelColor=grey&color=grey) 
