@@ -28,8 +28,8 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-Beginner-blueviolet)
 
 ### Find me all around the web:
-<a href="https://www.linkedin.com/in/avi-grace-abellana-3647aa251"> <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="My Icon"> </a>
 <a href="https://www.instagram.com/avgraci/"> <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="My Icon"> </a>
+<a href="https://www.linkedin.com/in/avi-grace-abellana-3647aa251"> <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="My Icon"> </a>
 <a href="vgrcabellana@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="My Icon"> </a>
 <a href="https://github.com/aviabellana"> <img src="https://skillicons.dev/icons?i=github&theme=light" alt="My Icon"> </a>
 
