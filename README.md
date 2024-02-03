@@ -31,7 +31,7 @@ a BSIT major in Business Technology Management student at the University of Sout
 <a href="https://github.com/aviabellana"> <img src="https://skillicons.dev/icons?i=github&theme=light" alt="My Icon"> </a>
 
 ### GitHub Overview:
-![Aviabellana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviabellana&show_icons=true&hide=prs,issues,contribs&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviabellana&layout=compact&theme=radical)
+![Aviabellana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviabellana&show_icons=true&hide=prs,issues,contribs&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviabellana&layout=compact&theme=radical)](https://github.com/aviabellana)
 
 
 
