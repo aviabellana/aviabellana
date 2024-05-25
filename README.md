@@ -8,8 +8,6 @@ Meow. Meow, meow. Meow! Meow; meow. Meow: meow, meow. Meow—meow. Meow? Meow, m
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,xd,figma)](https://skillicons.dev)
 
 ![Sleeping Expert](https://img.shields.io/badge/Sleeping%20Expert-💤-lightgrey)
-### Find me all around the web:
-<a href="https://www.linkedin.com/in/avi-grace-abellana-3647aa251"> <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="My Icon"> </a>
 
 
 
